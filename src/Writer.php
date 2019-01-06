@@ -178,6 +178,14 @@ class Writer
             'TSSE' => 'txt', //    [#TSEE Software/Hardware and settings used for encoding]
             'TYER' => 'num', //    [#TYER Year]
             'TXXX' => 'txtx', //    [#TXXX User defined text information frame]
+            
+            'TDAL' => 'txt', //    [D Album id]
+            'TDLA' => 'txt', //    [D Label id]
+            'TDTR' => 'txt', //    [D Track id]
+            'TDCO' => 'txt', //    [D Track Composer id]
+            'TDAR' => 'txt', //    [D Track Artist id]
+            
+            
             'UFID' => 'bin', //    [#sec4.1 Unique file identifier]
             'USER' => 'lang', //    [#sec4.23 Terms of use]
             'USLT' => 'lang', //    [#sec4.9 Unsychronized lyric/text transcription]
